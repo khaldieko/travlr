@@ -1,0 +1,15 @@
+# Uploaded profile photos (user content, not source code)
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
+uploads/*.gif
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Local configuration overrides
+config.local.php
